@@ -95,74 +95,17 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 ## Portfolio
 
-
-| [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
-| [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
-
-- **Restaurant Review App**<br>
-  This mobile-optimized Progressive Web App is
-  - Fully responsive and ARIA compliant
-  - Uses Service Worker, IndexedDB, & Cache API for a seamless offline experience
-  - Synchronizes when a connection is available and notifies the user when offline
+- **APP NAME**<br>
+  This DESCRIPTION is
+  - POINT
+  - POINT
+  -POINT
   <br><br>
   [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)
   <br><br>
-  [[Demo](https://restaurant-review-app.netlify.com)], [[Code Notes](https://james-priest.github.io/mws-restaurant-stage-1/)], [[Code Sample](https://github.com/james-priest/mws-restaurant-stage-1/blob/master/app/js/dbhelper.js)], [[GitHub Repo](https://github.com/james-priest/mws-restaurant-stage-1)]
+  [[Demo](link)], [[Code Notes](link], [[Code Sample](github file link)], [[GitHub Repo](link)]
   <br><br>
 
-- **CSS Grid Learning App**<br>
-  This is JavaScript Single Page Application built as a proof-of-concept.
-  - It teaches CSS Grid as a series of lessons.
-  - It's built with vanilla JavaScript, CSS transitions, & extensive use of RegEx
-  - Includes an in-page code editor built from scratch
-  <br><br>
-  [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br><br>
-  [[Demo](https://css-grid.netlify.com/?pg=12)], [[CodePen](https://codepen.io/james-priest/pen/MrdNPZ)], [[Code Sample](https://github.com/james-priest/grid-critters-code/blob/master/script/mce_ta.js)], [[GitHub Repo](https://github.com/james-priest/grid-critters-code)]
-  <br><br>
-
-- **Weather Forecast App**<br>
-  This is a single page app written to demonstrate JAMStack architecture.
-  - It is written from scratch and is fully responsive
-  - Uses Ajax,  HTML5 Geo-location, & embedded SVG
-  - Uses Semantic-UI framework, Ajax, CSS animations, & transitions
-  <br><br>
-  [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)
-  <br><br>
-  [[Demo](https://local-weather-app.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/XaQQaO)], [[Code Sample](https://github.com/james-priest/local-weather-app/blob/master/js/ajax.js)], [[GitHub Repo](https://github.com/james-priest/local-weather-app)]
-  <br><br>
-
-- **SpyCats Portfolio Site**<br>
-  This app is a portfolio-style site. It was written to satisfy an FCC certification requirement.
-  - It uses Bootstrap, jQuery, HTML5 Forms
-  - It incorporates scroll navigation & semantic HTML
-  - Is fully responsive and scales across devices
-  <br><br>
-  [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)
-  <br><br>
-  [[Demo](https://spycats.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/prpjEK)], [[Code Sample](https://github.com/james-priest/spy-cats/blob/master/js/fcc-portfolio.js)], [[GitHub Repo](https://github.com/james-priest/spy-cats)]
-  <br><br>
-
-- **JavaScript Array Methods**<br>
-  This app was built as part of my Microsoft Developer Certification study.
-  - It uses Object Oriented ES5 JavaScript
-  - It uses QUnit and TDD (Test-Driven Development) methodology
-  - It dynamically builds an interface that models various JavaScript Array methods
-  <br><br>
-  [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)
-  <br><br>
-  [[Demo](http://javascript-array-methods.netlify.com/)], [[Sample Code](https://github.com/james-priest/javascript-array-methods)], [[GitHub Repo](https://github.com/james-priest/javascript-array-methods)]
-  <br><br>
-
-- **Random Quote Generator**<br>
-  This app is FCC project built to satisfy a certification requirement.
-  - It uses basic JavaScript & jQuery for API requests through Ajax
-  - CSS transitions to dynamically display famous quotes
-  - Embedded SVG & FontAwesome for icons and background
-  <br><br>
-  [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)
-  <br><br>
-  [[Demo](https://random-quote-generator.netlify.com/)], [[CodePen](https://codepen.io/james-priest/pen/RZdGNo)] [[Code Sample](https://github.com/james-priest/random-quote-generator/blob/master/js/script.js)], [[GitHub Repo](https://github.com/james-priest/random-quote-generator)]
-  <br>
 
 **[⬆ top](#james-priest "toc")**
 
