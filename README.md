@@ -91,34 +91,6 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 **[⬆ top](#james-priest "toc")**
 
-
----
-
-<a name="career--devaware-technology-solutions" id="career--devaware-technology-solutions"></a>
-
-### devAware Technology Solutions
-
-|      | July 2002 - March 2006 |
-| :--- | ---: |
-| Founder & Lead Developer | La Canada, California |
-
-devAware specialized in .NET & Windows DNA application development for the web and desktop. As founder and lead developer, my role was that of information architect, systems designer & application developer. Some notable projects include:
-
-- **Sony VIAO Kiosk** - Contracted to create a custom installation for all Sony VIAO display models at Best Buy, Circuit City, Good Guys and Fry’s Electronics stores. The system locked down the OS through registry and group policy modifications while still allowing customer interaction with the desktop and Sony apps. Usage statistics were logged, uploaded and accessed through secure login.<br />
-_Technologies Used:_ **ASP.NET, ADO.NET, VB.NET, Win32, VB COM objects, SQL Server, IIS, Windows registry customization**
-
-- **Xtreme Desktops Applications** - Engaged to develop an application framework for a series of Flash-based desktop experiences. Components consisted of **.NET HTTP server** applications to gather usage statistics for upload to a centralized analytics server. Responsible for custom built Analytics system and test environment utilizing **IIS** with **ASP.NET** and **SQL Server**. Lab consisted of **Win 2000, ME, XP Home, XP Pro, Win 2000 server & 2003 server** for complete unit and regression testing of each version of the desktop application. Over 50 branded applications were created and posted for distribution. Each desktop application was part of a marketing campaign to promote the following major motion picture & television series:
-
-  |  |  |  |
-  | :--- | :--- | :--- |
-  | • X-Men – The Last Stand | • The Fast and the Furious | • Fantastic 4 |
-  | • The Family Guy | • Alien: Director Cut | • National Treasure |
-  | • Alexander | • 24 _Season 1-3_ | • X2 – _X-Men United_ |
-
-  _Technologies Used:_ **VB.NET, ADO.NET, VB COM objects, InstallShield scripting, IIS, SQL Server, testing lab methodologies**
-
-**[⬆ top](#james-priest "toc")**
-
 ---
 
 ## Portfolio
