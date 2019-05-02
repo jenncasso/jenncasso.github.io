@@ -95,7 +95,7 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 ## Portfolio
 
-| --- | --- | --- |
+
 | [![Restaurant Review App](./assets/images/portfolio_restaurant2.jpg)](https://restaurant-review-app.netlify.com)<br>**Restaurant Review App** | [![CSS Grid Learning App](./assets/images/portfolio_grid_app1.jpg)](https://css-grid.netlify.com/?pg=12)<br>**CSS Grid Learning App** | [![Weather Forecast App](./assets/images/portfolio_weather2.jpg)](https://local-weather-app.netlify.com/)<br>**Weather Forecast App** |
 | [![SpyCats Portfolio Site](./assets/images/portfolio_spycats1.jpg)](https://spycats.netlify.com/)<br>**SpyCats Portfolio Site** | [![JavaScript Array Methods](./assets/images/portfolio_js_array.jpg)](http://javascript-array-methods.netlify.com/)<br>**JavaScript Array Methods** | [![Quote Generator](./assets/images/portfolio_quote.jpg)](https://random-quote-generator.netlify.com/)<br>**Quote Generator** |
 
