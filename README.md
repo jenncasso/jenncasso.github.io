@@ -200,27 +200,14 @@ Full Stack Developer with 20 years experience seeking to join a thriving and dyn
 
 ## Certifications
 
-In 2018 I applied for and received two separate scholarships for Intermediate and Advanced web development studies from [Udacity](https://www.udacity.com/).
-
-The first was a three month program called _Grow with Google Scholarship Challenge_. The second was a _Mobile Web Specialist Nanodegree_ scholarship.
-
-<!-- 
-- Grow with Google Scholarship Challenge for Mobile Web Development (3-month program)
-- Mobile Web Specialist by Google Nanodegree (6-month program) -->
-
-<!-- At the end of the nine months and upon successful evaluation of my capstone project, I was awarded Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024). -->
-
-<!-- * **Google Mobile Web Specialist** certification (In process) -->
-<!-- * **Microsoft Programming in HTML5 with JavaScript & CSS3** certification (In process) -->
-
-|  Provider | Certification | Completed |
+<!--|  Provider | Certification | Completed |
 | :---   | :---       | ---:     |
 | Udacity | React Nanodegree - 4 month Program | In Process |
 | freeCodeCamp | [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/james-priest/javascript-algorithms-and-data-structures) - 300 hours | Dec 2018 |
 | freeCodeCamp | [Responsive Web Design Developer Certification](https://www.freecodecamp.org/certification/james-priest/responsive-web-design) - 300 hours | Dec 2018 |
 | Udacity | [Mobile Web Specialist Nanodegree](https://confirm.udacity.com/3JM7SK4Q) - 6 month Program | Oct 2018 |
 | Udacity | Grow With Google Scholarship Challenge - 3 month program | Apr 2018 |
-| The Waite Group | Java 1.1 Programming - 3 month program | Nov 1998 |
+| The Waite Group | Java 1.1 Programming - 3 month program | Nov 1998 |-->
 
 **[⬆ top](#james-priest "toc")**
 
